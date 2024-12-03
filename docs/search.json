@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "• Preprocessing of publicly available RNA and microRNA array (Affymetrix chip) data for differential expression analysis; utilizing rank product methodology and gene networks\n• Overexpressing microRNAs in cell lines through lentiviral transfection\n• Measuring changes in EGFR pathway activity (RNAseq, qPCR, and western blots)\n\n\n\n• Wearable sensors can improve patient experience. We applied machine learning and topological data analysis to the WISDM activity dataset. Specifically, I focused on preprocessing the time-series data and implementing supervised classification for activity recognition. We are working on preparing this work for journal submission, by the end of this year.\n• Continuous monitoring has proven to be more effective in detecting hypoxemia and hypotension in post-surgery patients. Using gaussian and Markov chain models, we categorized patients into distinct oxygenation states based on continuous SPO2 data from a collaborative study.\n\n\n\n• For TSC patients, a clear genotype-phenotype correlation over a patient’s life is still lacking. This hinders the development of targeted therapies and prognoses. We conducted phenotypic clustering analysis on data from the largest repository of clearly identified and well-studied individuals with TSC (N = 947, TSC Alliance Natural History Database).\n• This revealed four phenotypes and domain-specific TSC1/TSC2 variant associations.\n\n\n\n• Glioblastoma treatment with TMZ often leads to resistance. We investigated how glioblastoma cells evolve chemoresistance to TMZ using a clinically relevant dosing regimen, showing a gradual increase in resistance over multiple treatment cycles."
+  },
+  {
+    "objectID": "projects/index.html#project-defining-a-core-nrf2-gene-set",
+    "href": "projects/index.html#project-defining-a-core-nrf2-gene-set",
+    "title": "Projects",
+    "section": "Project: Defining a core NRF2 gene set",
+    "text": "Project: Defining a core NRF2 gene set\n• The NRF2 pathway plays a key role in oxidative stress response; we explored its activation in human cancers through KEAP1 inhibition and associated NRF2/KEAP1 mutations. I analyzed 7 RNA-seq databases to identify 14 consistently upregulated genes. We then validated these findings in other publicly available datasets."
+  },
+  {
+    "objectID": "projects/index.html#project-analyzing-effect-of-triterpenes-on-glioma-models-both-in-vitro-and-in-vivo",
+    "href": "projects/index.html#project-analyzing-effect-of-triterpenes-on-glioma-models-both-in-vitro-and-in-vivo",
+    "title": "Projects",
+    "section": "Project: Analyzing effect of triterpenes on glioma models both in-vitro and in-vivo",
+    "text": "Project: Analyzing effect of triterpenes on glioma models both in-vitro and in-vivo\n• I used cell-titer glo and IncuCyte to study triterpene responses as a potential new therapeutic in glioma models and examined protein expression changes via Western Blots and ELISA.\n• We also assessed the treatment benefit of triterpenes in a graft-versus-host disease model. This involved assigning clinical scores to the mice everyday by looking at weight changes, posture, activity level, fur texture etc."
+  },
+  {
+    "objectID": "projects/index.html#project-machine-learning-for-the-development-of-a-feedback-controller-for-patients-with-spinal-cord-injuries",
+    "href": "projects/index.html#project-machine-learning-for-the-development-of-a-feedback-controller-for-patients-with-spinal-cord-injuries",
+    "title": "Projects",
+    "section": "Project: Machine learning for the development of a feedback controller for patients with spinal cord injuries",
+    "text": "Project: Machine learning for the development of a feedback controller for patients with spinal cord injuries\n• My goal was to construct a network capable of predicting 6 different joint angles from inertial sensor acceleration data. Initially, I started with a feed forward network, however I soon transitioned to a Long Short-Term memory network to better capture the temporal dependencies.\n• I optimized the network by adjusting neurons, learning rate, epochs, and preprocessing."
+  },
+  {
+    "objectID": "education/index.html",
+    "href": "education/index.html",
+    "title": "Education",
+    "section": "",
+    "text": "MS, Systems Biology and Bioinformatics, August 2024 - May 2025\nCase Western Reserve University, Cleveland\n• Thesis: Investigating microRNA regulators in oligodendroglioma\n\n\nB.S.E, Biomedical Engineering, August 2019 - May 2023\nCase Western Reserve University, Cleveland\n• Minors: Computer Science, Pre-med\n• Dean’s High Honor list (2019-20, 2022-23)\n• Senior Project: A Device for Reducing the Tactile and Visual Stressors of Needle Based Procedures\n:::"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Harshita Kumar",
+    "section": "",
+    "text": "Welcome to my website!\nI am Harshita Kumar, a Systems Biology and Bioinformatics master’s student at Case Western Reserve University working at Cleveland Clinic. I have a background in Biomedical Engineering, Computer Science, and Biology.\nMy research focuses on leveraging computational and experimental approaches to develop cancer therapeutics. I have primarily focused on identifying microRNA-based therapeutic targets in glioblastoma by computationally optimizing microRNA combinations to regulate EGFR activity and validating their effects in vitro. I have also worked on analyzing patient time-series data using machine learning.\nPassionate about mentorship and collaboration, I aim to advance integrative strategies in cancer research and bridge computational biology with clinical applications."
+  },
+  {
+    "objectID": "Other Interests/index.html",
+    "href": "Other Interests/index.html",
+    "title": "Other Interests",
+    "section": "",
+    "text": "Working out is a non-negotiable part of my life. I focus on a combination of weightlifting and endurance training, with biking being my current favorite. Below, you can see a photo of my bike (my favorite thing I own). This year, I also participated in a Spartan Race—another highlight I’ve included below. Currently, I’m training for my first triathlon, and I’m excited to take on this new challenge!"
+  },
+  {
+    "objectID": "Other Interests/index.html#cooking",
+    "href": "Other Interests/index.html#cooking",
+    "title": "Other Interests",
+    "section": "Cooking",
+    "text": "Cooking\nI’m not sure if I’m a great cook, but I enjoy making fusion vegetarian high-protein dishes. Meal prepping every weekend helps me stay organized and avoid doing dishes during the week! Lately, I’ve been loving my Ninja Creami for making protein ice cream every night."
+  },
+  {
+    "objectID": "Other Interests/index.html#reading",
+    "href": "Other Interests/index.html#reading",
+    "title": "Other Interests",
+    "section": "Reading",
+    "text": "Reading\nI never go anywhere without my Kindle. Romantasy is my new favorite genre. Enid Blyton opened the door to my love of reading when I was younger. The Giver is probably still my favorite book."
+  },
+  {
+    "objectID": "Other Interests/index.html#languages",
+    "href": "Other Interests/index.html#languages",
+    "title": "Other Interests",
+    "section": "Languages",
+    "text": "Languages\nI love learning new languages! I’m a native speaker of Hindi and English, and I’ve completed C1 level training in Mandarin. I’m also advanced in Spanish and currently a beginner in German.\n:::"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+  }
+]
